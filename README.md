@@ -1,6 +1,6 @@
-# 📘 Sensores y actuadores 
+# 📘 Sensores y actuadores / Sensors & actuators
 
-Este repositorio contiene los proyectos, ejercicios y materiales desarrollados relativos al estudio de los sensores y actuadores de manera práctica.
+This repository contains the projects, exercises and materials developed relating to the study of sensors and actuators in a practical way
 
 It contains the programs developed for communication with different sensors and actuators using a **Raspberry Pi**. Developed and coded using **Python** and official documentation provided by the URJC.
 
@@ -12,17 +12,17 @@ It contains the programs developed for communication with different sensors and 
 
 ---
 
-## 🛠️ Acerca del desarrollo
+## 🛠️ About development
 
-- **Lenguaje(s) utilizado(s):** [Python]
-- **Herramientas y entornos usados:** [Geany, GitHub, VSCode, Raspberry Pi]
-- **Control de versiones:** Git (repositorios privados individuales para cada proyecto migrados al repositorio actual).
-- **Habilidades reforzadas:**
-  - Diseño de circuitos electrónicos
-  - Comunicación con sensores y actuadores variados
-  - Manejo de librerías externas y análisis de documentación oficial
-  - Modelado de sistemas algorítmicos simples
-  - Documentación básica y buenas prácticas de estilo
+- **Language(s) used:** [Python]
+- **Tools and environments:** [Geany, GitHub, VSCode, Raspberry Pi]
+- **Version control:** Git (individual private repositories for each project migrated to the current repository).
+- **Reinforced skills:**
+  - Electronic circuit design
+  - Communication with various sensors and actuators
+  - Handling of external libraries and analysis of official documentation.
+  - Modelling of simple algorithmic systems
+  - Basic documentation and good style practices
 
 ---
 
