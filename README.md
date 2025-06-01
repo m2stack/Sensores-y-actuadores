@@ -1,4 +1,4 @@
-# 📘 Sensores y actuadores / Sensors & actuators
+# 📘 Sensors & actuators
 
 This repository contains the projects, exercises and materials developed relating to the study of sensors and actuators in a practical way
 
